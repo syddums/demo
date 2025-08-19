@@ -1,0 +1,3 @@
+question id,question type,question text,question answer options,answer
+45a67140-59c1-4bae-91e5-0eda3a81afbc,free_response,How many hours of sleep did you get? (Enter number),Text-field input type = NUMERIC,6
+982f0db0-7d69-4528-dcb6-ffe181807afd,radio_button,How was the quality of sleep; on a scale from very unpleasant to very pleasant?,[Very unpleasant;Unpleasant;Slightly unpleasant;Neutral;Slightly pleasant;Pleasant;Very pleasant],Pleasant
